@@ -57,6 +57,7 @@ class _WelcomeState extends State<Welcome> {
                       MaterialStateProperty.all<Color>(Colors.black),
                   backgroundColor:
                       MaterialStateProperty.all<Color>(Colors.white),
+              ),
             ),
             SizedBox(
               height: 20,
